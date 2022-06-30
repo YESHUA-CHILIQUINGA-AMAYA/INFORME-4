@@ -4,9 +4,24 @@
 
 # 1. OBJETIVOS
 ### 1.1. OBJETIVO GENERAL:
+
+Comprender el tema de funcionamiento de circuitos en serie-paralelo y sus teoremas para su aplicación en los ejercicios.
+
 ### 1.2. OBJETIVOS ESPECÍFICOS:
 
+* Ivestigar el concepto de circuitos en serie-pralelo y sus aplicaciones para la correcta resolución de ejercicios.
+
+* Investigar los teoremas de circuitos y conversiones con el fin de entender sus problemas.
 # 2. MARCO TEÓRICO 
+
+![1](https://user-images.githubusercontent.com/104863870/176610133-e34380c8-5ef1-43c2-8f5b-2acc3f57af94.jpg)
+
+![2](https://user-images.githubusercontent.com/104863870/176610167-ffbf7084-879e-4e2d-8dc6-50c6775e84be.jpg)
+
+![3](https://user-images.githubusercontent.com/104863870/176610186-f83d456b-ec7a-449e-ae53-c63de9a211a7.jpg)
+
+![4](https://user-images.githubusercontent.com/104863870/176610193-74866a0b-0506-4f62-b955-26fb8f61ab00.jpg)
+
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
@@ -470,8 +485,49 @@ Para el circuito d:
 
 ![image](https://user-images.githubusercontent.com/104863870/176586686-007b6cb4-a31c-417c-bac3-d6c66e0b9c9e.png)
 
+![image](https://user-images.githubusercontent.com/104863870/176587328-2b4bc2cb-9325-48af-a60d-6aa9d4f00285.png)
+
+![image](https://user-images.githubusercontent.com/104863870/176587341-68df0cf0-8db6-43bb-b570-129f591f8314.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga R_L. Determine el valor apropiado de R_L en cada caso
+
+![image](https://user-images.githubusercontent.com/104863870/176588282-f23e3f53-7900-4b36-9afc-955ea2f3e437.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando R_L es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/104863870/176588313-0163c9b2-1f01-4586-8480-05a3d2090130.png)
+
+![image](https://user-images.githubusercontent.com/104863870/176588320-c98811a4-ae38-4570-a1ad-5410a82c30a6.png)
+
+![image](https://user-images.githubusercontent.com/104863870/176588324-1ebbe188-90a2-4fda-9245-3e95a6ef89ab.png)
+
+34. En la figura 8-88, convierta cada red delta en una red Y
+
+![image](https://user-images.githubusercontent.com/104863870/176588354-da1c4d64-2088-4415-9bee-22680267f9cb.png)
+
+![image](https://user-images.githubusercontent.com/104863870/176588359-45680fcf-f23b-458b-90b0-4ced7b902b8b.png)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
+
+![image](https://user-images.githubusercontent.com/104863870/176588395-0b5edbf9-596a-45f5-8be7-323e8a8f2f70.png)
+
+Redibujando el circuito para sus cálculos, sería:
+
+![image](https://user-images.githubusercontent.com/104863870/176588444-077110cf-1f32-4d5d-a385-3d1a5adce53a.png)
+
+![image](https://user-images.githubusercontent.com/104863870/176588454-590fa2ce-3008-437e-9f8f-f9cabb2b23e8.png)
+
+Para encontrar las demás corrientes, se calculan en base al circuito original
+
+![image](https://user-images.githubusercontent.com/104863870/176588464-83cceb27-121b-42ca-afb1-64dbf47e5715.png)
 
 # 4. VIDEO.
 # 5. CONCLUSIONES.
+
+* Los circuitos serie-paralelo se los puede reconocer por tener sus elemento sconcectados en serie y paralelo, con estos circuitos dependiendo de la información que se requiera determinar, podemos realizar análisis por medio de relación y datos que nos provee el circuito
+
+* Los teoreas de circuitos no dán métodos para poder simplificar un circuito a una forma estándar haciendo fácil su cálculo y análisis de valore, mientras que las conversiones son de gran utilidad y apliciones especializadas.
+
 # 6. BIBLIOGRAFÍA.
+
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
