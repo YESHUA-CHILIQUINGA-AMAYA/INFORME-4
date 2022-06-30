@@ -522,6 +522,9 @@ Para encontrar las demás corrientes, se calculan en base al circuito original
 ![image](https://user-images.githubusercontent.com/104863870/176588464-83cceb27-121b-42ca-afb1-64dbf47e5715.png)
 
 # 4. VIDEO.
+
+https://youtu.be/tWN2DCivH8E
+
 # 5. CONCLUSIONES.
 
 * Los circuitos serie-paralelo se los puede reconocer por tener sus elemento sconcectados en serie y paralelo, con estos circuitos dependiendo de la información que se requiera determinar, podemos realizar análisis por medio de relación y datos que nos provee el circuito
